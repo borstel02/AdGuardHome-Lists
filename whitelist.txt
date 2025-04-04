@@ -369,6 +369,9 @@
 # Intercom
 @@|intercom.io^$important
 
+# ip64.net
+@@||ipv64.net^$important
+
 # ipify
 @@|api.ipify.org^$important
 
@@ -626,6 +629,9 @@
 
 # Saturn
 @@|service-my.saturn.de^$important
+
+# Selfhost
+@@|selfhost.de^$important
 
 # Shoop
 @@|shoop.de^$important
