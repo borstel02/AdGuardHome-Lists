@@ -891,3 +891,6 @@
 # ZooPlus
 @@|shop-cdn-m.mediazs.com^$important
 @@|shop-public-cdn.mediazs.com^$important
+
+# eigene
+@@||xhcdn.com^$important
