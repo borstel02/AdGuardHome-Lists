@@ -754,6 +754,9 @@
 @@|ubisoftconnect.com^$important
 @@|uplay.com^$important
 
+# Unifi
+@@||unifi.ui.com^$important
+
 # Vidible
 @@|cdn.vidible.tv^$important
 @@|delivery.vidible.tv^$important
