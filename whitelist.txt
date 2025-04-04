@@ -632,6 +632,7 @@
 
 # Selfhost
 @@|selfhost.de^$important
+@@|selfhost.co^$important
 
 # Shoop
 @@|shoop.de^$important
