@@ -1,2 +1,2 @@
-! blacklist - Domains
+! Blacklist - Domains
 || partiality.itunes.apple.com/
