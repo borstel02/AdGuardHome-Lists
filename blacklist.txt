@@ -4,3 +4,4 @@
 ||tsyndicate.com^$important
 ||collector.xhamster.com^$important
 ||static-nss.xhcdn.com^$important
+||xhamsterlive.com^$important
