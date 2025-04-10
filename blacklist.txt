@@ -1,4 +1,6 @@
 ! Blacklist - Domains
 
-|| partiality.itunes.apple.com^$important
+||xhamsterflirt.com^$important
 ||tsyndicate.com^$important
+||collector.xhamster.com^$important
+||static-nss.xhcdn.com^$important
