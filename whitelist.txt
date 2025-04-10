@@ -1790,6 +1790,7 @@
 
 # eigene
 @@|xhcdn.com^$important
+@@||xhamster.com^$important
 @@||selfhost.co^$important
 @@||ipv64.net^$important
 @@||www.google.com^$important
