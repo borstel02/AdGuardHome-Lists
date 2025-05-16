@@ -1795,3 +1795,5 @@
 @@|ipv64.net^$important
 @@|www.google.com^$important
 @@|codecguide.com^$important
+@@|mediafire.com^$important
+@@|house-of-usenet.com^$important
