@@ -1796,7 +1796,7 @@
 @@||xhamster.com^$important
 @@||xhcdn.com^$important
 @@||codecguide.com^$important
-@@|mediafire.com^$important
+@@||mediafire.com^$important
 @@||house-of-usenet.com^$important
 @@||volkeru.lima-city.de^$important
 @@||nordvpn.com^$important
