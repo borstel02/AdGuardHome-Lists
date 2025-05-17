@@ -1801,3 +1801,4 @@
 @@||volkeru.lima-city.de^$important
 @@||nordvpn.com^$important
 @@||checkip.dyndns.com^$important
+@@|shop-public-cdn.mediazs.com^$important 
