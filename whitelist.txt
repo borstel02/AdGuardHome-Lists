@@ -1802,3 +1802,5 @@
 @@||nordvpn.com^$important
 @@||checkip.dyndns.com^$important
 @@|shop-public-cdn.mediazs.com^$important 
+@@||mdr.de^$important
+@@||inselmuehle.shop^$important
