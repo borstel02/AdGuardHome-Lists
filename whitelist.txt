@@ -1804,8 +1804,8 @@
 @@|shop-public-cdn.mediazs.com^$important 
 @@|mdr.de^$important
 @@|inselmuehle.shop^$important
-@@|*.scenenzbs.com^$important
-@@||cdn.scenenzbs.com^$important
+@@|scenenzbs.com^$important
+@@|cdn.scenenzbs.com^$important
 @@|www.noip.com^$important
 @@|url9788.noip.com^$important
 @@|youtube.com^$important
