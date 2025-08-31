@@ -1812,3 +1812,5 @@
 @@|youtube.com^$important
 @@|youtubei.googleapis.com^$important
 @@|tagm.tchibo.de^$important
+@@|auth.usenext.com^$important
+@@|usenext.com^$important
