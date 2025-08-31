@@ -1799,6 +1799,7 @@
 @@|mediafire.com^$important
 @@|house-of-usenet.com^$important
 @@|img.house-of-usenet.com^$important
+@@|cdn.house-of-usenet.com^$important
 @@|volkeru.lima-city.de^$important
 @@|nordvpn.com^$important
 @@|checkip.dyndns.com^$important
