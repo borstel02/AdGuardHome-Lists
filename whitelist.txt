@@ -1815,3 +1815,4 @@
 @@|auth.usenext.com^$important
 @@|usenext.com^$important
 @@|usenext.de^$important
+@@|email.mg.usenext.de^$important
