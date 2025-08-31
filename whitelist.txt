@@ -1790,16 +1790,16 @@
 
 # eigene
 
-@@||selfhost.co^$important
-@@||ipv64.net^$important
+@@|selfhost.co^$important
+@@|ipv64.net^$important
 @@||www.google.com^$important
 @@||xhamster.com^$important
 @@||xhcdn.com^$important
 @@||codecguide.com^$important
 @@||mediafire.com^$important
-@@||house-of-usenet.com^$important
-@@||volkeru.lima-city.de^$important
-@@||nordvpn.com^$important
+@@|house-of-usenet.com^$important
+@@|volkeru.lima-city.de^$important
+@@|nordvpn.com^$important
 @@||checkip.dyndns.com^$important
 @@|shop-public-cdn.mediazs.com^$important 
 @@||mdr.de^$important
