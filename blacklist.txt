@@ -4,4 +4,7 @@
 ||tsyndicate.com^$important
 ||collector.xhamster.com^$important
 ||static-nss.xhcdn.com^$important
+||flirtify.com^$important
 ||xhamsterlive.com^$important
+||xhamsterflirt.com^$important
+||pxl-eu.tsyndicate.com^$important
