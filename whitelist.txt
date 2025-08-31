@@ -1814,3 +1814,4 @@
 @@|tagm.tchibo.de^$important
 @@|auth.usenext.com^$important
 @@|usenext.com^$important
+@@|usenext.de^$important
